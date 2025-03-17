@@ -1,2 +1,1 @@
-# homepage
-![Image](https://github.com/user-attachments/assets/08b71140-d7eb-4486-82ba-df00fdf5a8ff)
+![Image](https://github.com/user-attachments/assets/0e556031-49cc-4fe3-9d6c-2c3b69995f7d)
