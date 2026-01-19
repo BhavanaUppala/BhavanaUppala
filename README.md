@@ -39,7 +39,7 @@ I believe in learning by building and improving step by step.
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/bhavanauppala/
+- 💼 LinkedIn: https://www.linkedin.com/in/bhavanauppala/
 - 🧑‍💻 GitHub: https://github.com/BhavanaUppala/
 - 📧 Email: uppalabhavana3@gmail.com
 
