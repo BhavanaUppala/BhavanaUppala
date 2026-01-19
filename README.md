@@ -25,8 +25,7 @@ I believe in learning by building and improving step by step.
 ---
 
 ## 📌 Featured Projects
-- 🎙 **Voice Translator** – Backend-focused project to understand real translation workflows  
-- 🎬 **OTT Aggregator App** – Centralized platform idea for browsing content across OTT platforms  
+- 🎙 **Voice Translator** – Backend-focused project to understand real translation workflows
 - 🏧 **ATM Interface** – Java + Swing based application 
 
 ---
